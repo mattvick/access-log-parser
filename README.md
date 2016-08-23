@@ -1,2 +1,2 @@
 # cf-log-parser
-Parse AWS CloudFront Access Logs
+Parse a line from a AWS CloudFront Access Log into a PHP object
