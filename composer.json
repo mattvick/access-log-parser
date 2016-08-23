@@ -1,0 +1,19 @@
+{
+    "name": "mattvick/cf-log-parser",
+    "description": "Parse a line from a AWS CloudFront Access Log file into a PHP object",
+    "keywords": ["aws","cloudfront","access","log","parser"],
+    "type": "proprietary",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Matthew Vickery",
+            "email": "vickery.matthew@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.9"
+    },
+    "autoload": {
+        "psr-0": { "Mattvick": "src" }
+    }
+}
