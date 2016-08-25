@@ -1,5 +1,5 @@
 {
-    "name": "mattvick/cf-log-parser",
+    "name": "mattvick/access-log-parser",
     "description": "Parse a line from a AWS CloudFront Access Log file into a PHP object",
     "keywords": ["aws","cloudfront","access","log","parser"],
     "type": "proprietary",
